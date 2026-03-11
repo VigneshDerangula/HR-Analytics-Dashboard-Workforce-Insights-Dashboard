@@ -157,4 +157,4 @@ python scripts/generate_data.py
 ## 👤 Author
 
 **Vignesh Derangula**
-[[LinkedIn](#)](https://www.linkedin.com/in/vigneshderangula/) · [GitHub](#) · vigneshderangula@gmail.com
+vigneshderangula@gmail.com
