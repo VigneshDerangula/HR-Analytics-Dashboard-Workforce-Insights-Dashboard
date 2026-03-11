@@ -146,10 +146,12 @@ python scripts/generate_data.py
 ## 📷 Screenshots
 
 ### Summary View
-![HR Summary](screenshots/hr_summary.png)
+<img width="1009" height="578" alt="image" src="https://github.com/user-attachments/assets/b304c304-8151-4108-a79d-3b169f21b3c1" />
+
 
 ### Employee Records View
-![HR Detail](screenshots/hr_detail.png)
+<img width="1000" height="570" alt="image" src="https://github.com/user-attachments/assets/dae24534-cc2f-478a-b0dc-ed47e9549d4a" />
+
 
 ---
 
