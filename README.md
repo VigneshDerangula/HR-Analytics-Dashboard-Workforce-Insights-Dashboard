@@ -152,13 +152,6 @@ python scripts/generate_data.py
 ### Employee Records View
 <img width="1000" height="570" alt="image" src="https://github.com/user-attachments/assets/dae24534-cc2f-478a-b0dc-ed47e9549d4a" />
 
-
----
-
-## 🔗 Live Dashboard
-
-👉 [View on Tableau Public](#) ← *(replace with your link)*
-
 ---
 
 ## 👤 Author
